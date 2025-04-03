@@ -1,0 +1,235 @@
+{
+  "list": [
+    {
+      "type": "pay",
+      "money": 99.43,
+      "date": "2024-09-11 06:45:54",
+      "useFor": "drinks",
+      "id": 1
+    },
+    {
+      "type": "pay",
+      "money": 88.54,
+      "date": "2022-10-24 09:18:12",
+      "useFor": "longdistance",
+      "id": 2
+    },
+    {
+      "type": "income",
+      "money": 100.75,
+      "date": "2022-10-22 09:18:12",
+      "useFor": "salary",
+      "id": 3
+    },
+    {
+      "type": "pay",
+      "money": 33,
+      "date": "2022-09-24 09:18:12",
+      "useFor": "dessert",
+      "id": 4
+    },
+    {
+      "type": "pay",
+      "money": 56,
+      "date": "2022-10-22 05:37:06",
+      "useFor": "drinks",
+      "id": 5
+    },
+    {
+      "type": "pay",
+      "money": 888.64,
+      "date": "2022-10-28 08:21:42",
+      "useFor": "travel",
+      "id": 6
+    },
+    {
+      "type": "income",
+      "money": 10000.42,
+      "date": "2023-03-20 06:45:54",
+      "useFor": "salary",
+      "id": 7
+    },
+    {
+      "type": "pay",
+      "money": 10.85,
+      "date": "2023-03-22 07:17:12",
+      "useFor": "drinks",
+      "id": 8
+    },
+    {
+      "type": "pay",
+      "money": 20,
+      "date": "2023-03-22 07:51:20",
+      "useFor": "dessert",
+      "id": 9
+    },
+    {
+      "type": "pay",
+      "money": 100,
+      "date": "2023-03-22 09:18:12",
+      "useFor": "drinks",
+      "id": 10
+    },
+    {
+      "type": "pay",
+      "money": 50,
+      "date": "2023-03-23 09:11:23",
+      "useFor": "food",
+      "id": 11
+    },
+    {
+      "type": "pay",
+      "money": 10,
+      "date": "2023-04-03 11:14:56",
+      "useFor": "food",
+      "id": 12
+    },
+    {
+      "type": "pay",
+      "money": 200,
+      "date": "2024-09-16 06:45:54",
+      "useFor": "drinks",
+      "id": 13
+    },
+    {
+      "type": "pay",
+      "money": 25,
+      "date": "2024-09-16 06:42:54",
+      "useFor": "drinks",
+      "id": 14
+    },
+    {
+      "type": "pay",
+      "money": 5,
+      "date": "2024-09-16 06:41:54",
+      "useFor": "dessert",
+      "id": 13
+    },
+    {
+      "type": "pay",
+      "money": 53,
+      "date": "2024-09-16 06:15:54",
+      "useFor": "drinks",
+      "id": 14
+    },
+    {
+      "type": "income",
+      "money": 553,
+      "date": "2024-09-16 06:12:54",
+      "useFor": "overtimepay",
+      "id": 14
+    },
+    {
+      "type": "income",
+      "money": 23,
+      "date": "2024-09-16 06:25:54",
+      "useFor": "financial",
+      "id": 15
+    },
+    {
+      "type": "income",
+      "money": 76,
+      "date": "2024-09-06 06:55:54",
+      "useFor": "cashgift",
+      "id": 16
+    },
+    {
+      "type": "income",
+      "money": 873,
+      "date": "2024-09-08 06:15:54",
+      "useFor": "cashgift",
+      "id": 17
+    },
+    {
+      "type": "income",
+      "money": 8645,
+      "date": "2024-08-08 01:15:54",
+      "useFor": "financial",
+      "id": 17
+    },
+    {
+      "type": "income",
+      "money": 8645,
+      "date": "2024-08-02 04:15:54",
+      "useFor": "financial",
+      "id": 18
+    },
+    {
+      "type": "pay",
+      "money": 64,
+      "date": "2024-08-08 01:15:54",
+      "useFor": "longdistance",
+      "id": 19
+    },
+    {
+      "type": "pay",
+      "money": 432,
+      "date": "2024-08-08 01:13:54",
+      "useFor": "taxi",
+      "id": 20
+    },
+    {
+      "type": "pay",
+      "money": 6052,
+      "date": "2024-09-17 01:13:54",
+      "useFor": "dessert",
+      "id": 21
+    },
+    {
+      "type": "pay",
+      "money": 63,
+      "date": "2024-09-17 01:11:54",
+      "useFor": "food",
+      "id": 21
+    },
+    {
+      "id": "7c74",
+      "type": "pay",
+      "date": "2024-09-19 15:41:14",
+      "useFor": "book",
+      "money": "777"
+    },
+    {
+      "id": "40a7",
+      "type": "pay",
+      "date": "2024-09-19 15:43:37",
+      "useFor": "taxi",
+      "money": "777"
+    },
+    {
+      "id": "3dac",
+      "type": "pay",
+      "date": "2024-09-19 15:59:16",
+      "useFor": "dessert",
+      "money": "534"
+    },
+    {
+      "id": 1,
+      "type": "income",
+      "date": "2024-09-19 15:59:16",
+      "useFor": "bonus",
+      "money": "3432"
+    },
+    {
+      "id": "06a2",
+      "type": "income",
+      "date": "2024-09-19 16:02:29",
+      "useFor": "cashgift",
+      "money": "545"
+    },
+    {
+      "id": "1f45",
+      "type": "income",
+      "date": "2024-09-19 16:03:18",
+      "useFor": "salary",
+      "money": "1"
+    },
+    {
+      "id": "af6a",
+      "type": "pay",
+      "date": "2024-09-19 16:06:56",
+      "useFor": "dessert",
+      "money": "8760"
+    }
+  ]
+}
