@@ -5,182 +5,182 @@
       "money": 99.43,
       "date": "2024-09-11 06:45:54",
       "useFor": "drinks",
-      "id": 1
+      "id": "1"
     },
     {
       "type": "pay",
       "money": 88.54,
       "date": "2022-10-24 09:18:12",
       "useFor": "longdistance",
-      "id": 2
+      "id": "2"
     },
     {
       "type": "income",
       "money": 100.75,
       "date": "2022-10-22 09:18:12",
       "useFor": "salary",
-      "id": 3
+      "id": "3"
     },
     {
       "type": "pay",
       "money": 33,
       "date": "2022-09-24 09:18:12",
       "useFor": "dessert",
-      "id": 4
+      "id": "4"
     },
     {
       "type": "pay",
       "money": 56,
       "date": "2022-10-22 05:37:06",
       "useFor": "drinks",
-      "id": 5
+      "id": "5"
     },
     {
       "type": "pay",
       "money": 888.64,
       "date": "2022-10-28 08:21:42",
       "useFor": "travel",
-      "id": 6
+      "id": "6"
     },
     {
       "type": "income",
       "money": 10000.42,
       "date": "2023-03-20 06:45:54",
       "useFor": "salary",
-      "id": 7
+      "id": "7"
     },
     {
       "type": "pay",
       "money": 10.85,
       "date": "2023-03-22 07:17:12",
       "useFor": "drinks",
-      "id": 8
+      "id": "8"
     },
     {
       "type": "pay",
       "money": 20,
       "date": "2023-03-22 07:51:20",
       "useFor": "dessert",
-      "id": 9
+      "id": "9"
     },
     {
       "type": "pay",
       "money": 100,
       "date": "2023-03-22 09:18:12",
       "useFor": "drinks",
-      "id": 10
+      "id": "10"
     },
     {
       "type": "pay",
       "money": 50,
       "date": "2023-03-23 09:11:23",
       "useFor": "food",
-      "id": 11
+      "id": "11"
     },
     {
       "type": "pay",
       "money": 10,
       "date": "2023-04-03 11:14:56",
       "useFor": "food",
-      "id": 12
+      "id": "12"
     },
     {
       "type": "pay",
       "money": 200,
       "date": "2024-09-16 06:45:54",
       "useFor": "drinks",
-      "id": 13
+      "id": "13"
     },
     {
       "type": "pay",
       "money": 25,
       "date": "2024-09-16 06:42:54",
       "useFor": "drinks",
-      "id": 14
+      "id": "14"
     },
     {
       "type": "pay",
       "money": 5,
       "date": "2024-09-16 06:41:54",
       "useFor": "dessert",
-      "id": 13
+      "id": "13"
     },
     {
       "type": "pay",
       "money": 53,
       "date": "2024-09-16 06:15:54",
       "useFor": "drinks",
-      "id": 14
+      "id": "14"
     },
     {
       "type": "income",
       "money": 553,
       "date": "2024-09-16 06:12:54",
       "useFor": "overtimepay",
-      "id": 14
+      "id": "14"
     },
     {
       "type": "income",
       "money": 23,
       "date": "2024-09-16 06:25:54",
       "useFor": "financial",
-      "id": 15
+      "id": "15"
     },
     {
       "type": "income",
       "money": 76,
       "date": "2024-09-06 06:55:54",
       "useFor": "cashgift",
-      "id": 16
+      "id": "16"
     },
     {
       "type": "income",
       "money": 873,
       "date": "2024-09-08 06:15:54",
       "useFor": "cashgift",
-      "id": 17
+      "id": "17"
     },
     {
       "type": "income",
       "money": 8645,
       "date": "2024-08-08 01:15:54",
       "useFor": "financial",
-      "id": 17
+      "id": "17"
     },
     {
       "type": "income",
       "money": 8645,
       "date": "2024-08-02 04:15:54",
       "useFor": "financial",
-      "id": 18
+      "id": "18"
     },
     {
       "type": "pay",
       "money": 64,
       "date": "2024-08-08 01:15:54",
       "useFor": "longdistance",
-      "id": 19
+      "id": "19"
     },
     {
       "type": "pay",
       "money": 432,
       "date": "2024-08-08 01:13:54",
       "useFor": "taxi",
-      "id": 20
+      "id": "20"
     },
     {
       "type": "pay",
       "money": 6052,
       "date": "2024-09-17 01:13:54",
       "useFor": "dessert",
-      "id": 21
+      "id": "21"
     },
     {
       "type": "pay",
       "money": 63,
       "date": "2024-09-17 01:11:54",
       "useFor": "food",
-      "id": 21
+      "id": "21"
     },
     {
       "id": "7c74",
@@ -204,7 +204,7 @@
       "money": "534"
     },
     {
-      "id": 1,
+      "id": "1",
       "type": "income",
       "date": "2024-09-19 15:59:16",
       "useFor": "bonus",
@@ -230,6 +230,55 @@
       "date": "2024-09-19 16:06:56",
       "useFor": "dessert",
       "money": "8760"
+    },
+    {
+      "id": "e8d5",
+      "type": "pay",
+      "money": -121,
+      "date": "2025-04-06T12:53:59.514Z",
+      "useFor": "food"
+    },
+    {
+      "id": "81e1",
+      "type": "pay",
+      "money": -121,
+      "date": "2025-04-06T12:54:04.096Z",
+      "useFor": "food"
+    },
+    {
+      "id": "15ec",
+      "type": "pay",
+      "money": -120,
+      "date": "2025-04-06T12:54:18.545Z",
+      "useFor": "food"
+    },
+    {
+      "id": "ffdc",
+      "type": "income",
+      "money": 500,
+      "date": "2025-04-06T12:55:02.174Z",
+      "useFor": "salary"
+    },
+    {
+      "id": "1a19",
+      "type": "pay",
+      "money": -30,
+      "date": "2025-04-06T13:02:22.889Z",
+      "useFor": "game"
+    },
+    {
+      "id": "fd49",
+      "type": "pay",
+      "money": -20,
+      "date": "2024-04-05T16:00:00.000Z",
+      "useFor": "audio"
+    },
+    {
+      "id": "d504",
+      "type": "income",
+      "money": 50,
+      "date": "2024-07-05T16:00:00.000Z",
+      "useFor": "cashgift"
     }
   ]
 }
